@@ -24,3 +24,19 @@ Pesquisar:
 Pesquisar `save`
 
 ✅ Editor: Format On Save
+
+## Instalar as dependências
+
+`npm install`
+
+## Rodar o script dev : vite
+
+`npm run dev`
+
+## Instalar dependências pelo site npm 
+
+`npm install nomeDep @16.0.0(versão)`
+
+## Desinstalar
+
+`npm uninstall nomeDep`
