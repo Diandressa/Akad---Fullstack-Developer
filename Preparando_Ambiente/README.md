@@ -46,3 +46,9 @@ Comando que instala as dependências.
 ## Executar pacotes - NPX
 
 Comando npx executa pacotes sem instalá-los permanentemente
+
+`npx create-vite nomeProjeto --template react`
+
+Executa o vite para criar o projeto, não instalamos a dependência do Vite (pode pedir instalação temporária de alguns pacotes).
+
+Ainda rodamos o projeto com `npm run dev` para rodar o script.
