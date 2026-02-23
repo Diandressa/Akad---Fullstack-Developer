@@ -33,10 +33,16 @@ Pesquisar `save`
 
 `npm run dev`
 
-## Instalar dependências pelo site npm 
+## Instalar dependências - NPM
+
+Comando que instala as dependências.
 
 `npm install nomeDep @16.0.0(versão)`
 
 ## Desinstalar
 
 `npm uninstall nomeDep`
+
+## Executar pacotes - NPX
+
+Comando npx executa pacotes sem instalá-los permanentemente
