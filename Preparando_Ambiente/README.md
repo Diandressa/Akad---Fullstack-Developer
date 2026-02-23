@@ -52,3 +52,23 @@ Comando npx executa pacotes sem instalá-los permanentemente
 Executa o vite para criar o projeto, não instalamos a dependência do Vite (pode pedir instalação temporária de alguns pacotes).
 
 Ainda rodamos o projeto com `npm run dev` para rodar o script.
+
+## Yarn
+
+Gerenciador de pacotes alternativo ao npm.
+
+Comando para instalar o yarn no projeto:
+
+`yarn`
+
+Iniciar servidor vite (script: dev):
+
+`yarn dev`
+
+Instalar dependência com yarn ou atualizar dependência:
+
+`yarn add nomePacote`
+
+Remover/desinstalar pacote:
+
+`yarn remove nomePacote`
