@@ -126,4 +126,9 @@ Documentação > Comandos > Gerenciar dependências > pnpm remove
 
 `pnpm uninstall nomePacote`
 
+## Ferramentas online para criar projetos em React
+
+* [stackblitz](https://stackblitz.com/)
+* [codesandbox](https://codesandbox.io/)
+
 
