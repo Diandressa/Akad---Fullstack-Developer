@@ -22,3 +22,7 @@ Mistura as linguagens Interpreta e Compilada. O código começa sendo interpreta
 As partes mais usadas são compiladas para código de máquina em tempo de execução.
 
 > O JIT observa quais partes do código rodam muitas vezes e transforma só essas partes em código de máquina otimizado enquanto o programa já está rodando.
+
+# Babel
+
+Compilador Javascript que converte código ECMAScript 2015 ou superior para versões compatíveis com os navegadores, versões anteriores.
