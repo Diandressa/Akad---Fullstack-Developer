@@ -26,3 +26,9 @@ As partes mais usadas são compiladas para código de máquina em tempo de execu
 # Babel
 
 Compilador Javascript que converte código ECMAScript 2015 ou superior para versões compatíveis com os navegadores, versões anteriores.
+
+# Processo de empacotamento (bundling)
+
+Resolve as dependências e junta os módulos (import e export) em um mesmo arquivos/pacotes para navegador. Reduz o número de requisições por arquivo. Esse pacote se chama bundle.
+
+![Bundle](../../img/webpack-bundle.png)
